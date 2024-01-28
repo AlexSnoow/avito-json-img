@@ -1,0 +1,29 @@
+{
+    "catalog": {
+        "items": [
+            {
+                "id": 2052308141,
+                "title": "Пример товара 1",
+                "description": "Новые поступления.\n\nСмотрите объявления",
+                "urlPath": "https://example.com/product/1",
+                "priceValue": 35000,
+                "images1": "https://60.img.avito.st/image/",
+                "images2": "https://60.img.avito.st/image/",
+                "images3": "https://60.img.avito.st/image/",
+                "images4": "https://60.img.avito.st/image/",
+                "images5": "https://60.img.avito.st/image/",
+                "images6": "https://60.img.avito.st/image/",
+                "images7": "https://60.img.avito.st/image/",
+                "images8": "https://60.img.avito.st/image/",
+                "images9": "https://60.img.avito.st/image/",
+                "images10": "https://60.img.avito.st/image/",
+                "datePayload": "31 декабря 2023",
+                "profileLink": "/user/aeb23015a16182298fe1d70d1744e1cf/profile?src=search_seller_info",
+                "profileName": "Ноутбуки Продажа и ремонт",
+                "profileRatingScore": 5,
+                "profileRatingSummary": "330 отзывов",
+                "profileClosedItemsText": "3563 завершённых объявления",
+            }
+        ]
+    }
+}
