@@ -4,6 +4,7 @@ import.json
 export.json
 config.py
 id_description_output.txt
+out/
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
