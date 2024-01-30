@@ -49,17 +49,25 @@ def transform_item(input_item):
     return output_item
 
 
-def transform_json(input_json):
+def transform_json(input_json, excluded_ids):
     output_json = {
         "catalog": {
             "items": [
                 transform_item(item)
                 for item in input_json.get("catalog", {}).get("items", [])
+                if item.get("id") not in excluded_ids
             ]
         }
     }
     return output_json
 
+# Читаем ID из файла list-spij.txt
+with open("list-spij.txt", "r", encoding="utf-8") as list_file:
+    excluded_ids = set()
+    for line in list_file:
+        stripped_line = line.strip()
+        if stripped_line and stripped_line.isdigit():
+            excluded_ids.add(int(stripped_line))
 
 # Открываем файл с JSON данными
 with open("import.json", "r", encoding="utf-8") as file:
@@ -71,8 +79,8 @@ with open("import.json", "r", encoding="utf-8") as file:
         print(f"Error decoding JSON: {e}")
         exit()
 
-# Преобразуем данные
-output_data = transform_json(input_data)
+# Преобразуем данные, передавая исключенные ID
+output_data = transform_json(input_data, excluded_ids)
 
 # Записываем выходной JSON в файл
 with open("export.json", "w", encoding="utf-8") as file:

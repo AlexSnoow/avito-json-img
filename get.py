@@ -1,3 +1,4 @@
+# get.py
 import os
 import requests
 import json
@@ -41,6 +42,9 @@ def save_images(item):
                         print(f"Изображение {image_name} сохранено по пути: {image_path}")
             else:
                 print(f"Изображение {image_name} уже существует по пути: {image_path}")
+
+    with open("list-spij.txt", "a", encoding="utf-8") as list_file:
+        list_file.write(f"{item_id}\n")
 
 
 def write_id_description_to_text(items, output_file):
