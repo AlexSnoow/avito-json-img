@@ -1,5 +1,3 @@
-# get.py
-
 import os
 import requests
 import json
@@ -17,11 +15,9 @@ def get_save_path(category_id):
 def save_images(item):
     item_id = str(item["id"])
     category_id = item.get("categoryId")
-
+    
     # Получаем путь в зависимости от categoryId
     folder_path = os.path.join(get_save_path(category_id), item_id)
-
-    # folder_path = os.path.join(SAVE_PATH, item_id)
 
     # Создаем папку с именем id, если ее нет
     if not os.path.exists(folder_path):

@@ -11,14 +11,14 @@ https://www.avito.ru/web/1/js/items?locationId=629990&categoryId=98 - катег
 ПК:
 https://www.avito.ru/web/1/js/items?locationId=637640&categoryId=31 - Москва
 https://www.avito.ru/web/1/js/items?locationId=633540&categoryId=31 - Краснодар
-https://www.avito.ru/web/1/js/items?locationId=34241905&categoryId=31 - Питер
-https://www.avito.ru/web/1/js/items?locationId=653240&categoryId=31 - Самара
+https://www.avito.ru/web/1/js/items?locationId=34241905&categoryId=31 - Краснодар
+https://www.avito.ru/web/1/js/items?locationId=653240&categoryId=31 - Питер
 
 Ноуты:
 https://www.avito.ru/web/1/js/items?locationId=637640&categoryId=98 - Москва
 https://www.avito.ru/web/1/js/items?locationId=633540&categoryId=98 - Краснодар
-https://www.avito.ru/web/1/js/items?locationId=34241905&categoryId=98 - Питер
-https://www.avito.ru/web/1/js/items?locationId=653240&categoryId=98 - Самара
+https://www.avito.ru/web/1/js/items?locationId=34241905&categoryId=98 - Краснодар
+https://www.avito.ru/web/1/js/items?locationId=653240&categoryId=98 - Питер
 
 https://www.avito.ru/web/1/js/items?locationId=653240&name=игровой компьютер
 
@@ -32,8 +32,8 @@ https://www.avito.ru/web/1/js/items?address=Воронежская обл., Во
 637640 - Москва
 633540 - Краснодар
 
-34241905 - Питер?
-653240 - Самара?
+34241905 - Краснодар
+653240 - Питер
 
 630090 - Калининград
 
