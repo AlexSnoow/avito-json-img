@@ -61,6 +61,12 @@ def transform_json(input_json):
     return output_json
 
 
+# Открываем файл list-spij.txt и читаем уже имеющиеся значения "id"
+existing_ids = set()
+with open("list-spij.txt", "r", encoding="utf-8") as list_file:
+    for line in list_file:
+        existing_ids.add(int(line.strip()))
+
 # Открываем файл с JSON данными
 with open("import.json", "r", encoding="utf-8") as file:
     try:
@@ -74,6 +80,17 @@ with open("import.json", "r", encoding="utf-8") as file:
 # Преобразуем данные
 output_data = transform_json(input_data)
 
-# Записываем выходной JSON в файл
+# Записываем выходной JSON в файл export.json только с уникальными id
 with open("export.json", "w", encoding="utf-8") as file:
-    json.dump(output_data, file, ensure_ascii=False, indent=2)
+    for item in output_data.get("catalog", {}).get("items", []):
+        item_id = item.get("id")
+        if item_id is not None and item_id not in existing_ids:
+            json.dump(item, file, ensure_ascii=False)
+            file.write("\n")
+
+# Дополняем файл list-spij.txt новыми значениями "id"
+with open("list-spij.txt", "a", encoding="utf-8") as list_file:
+    for item in output_data.get("catalog", {}).get("items", []):
+        item_id = item.get("id")
+        if item_id is not None:
+            list_file.write(str(item_id) + "\n")
