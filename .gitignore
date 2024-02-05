@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,python,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,python,visualstudiocode
 import.json
+items.json
 export.json
 config.py
 id_description_output.txt

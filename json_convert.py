@@ -70,7 +70,7 @@ with open("list-spij.txt", "r", encoding="utf-8") as list_file:
             excluded_ids.add(int(stripped_line))
 
 # Открываем файл с JSON данными
-with open("import.json", "r", encoding="utf-8") as file:
+with open("items.json", "r", encoding="utf-8") as file:
     try:
         # Пытаемся загрузить JSON
         input_data = json.load(file)
