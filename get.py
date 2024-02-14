@@ -3,15 +3,18 @@ import os
 import requests
 import json
 import subprocess
-from config import SAVE_PATH, SAVE_PATH_PC, SAVE_PATH_NB, FILE_EXPORT_JSON  # Импортируем переменные из config.py
+from config import SAVE_PATH, SAVE_PATH_PC, SAVE_PATH_NB, SAVE_PATH_VIDEOCARD, FILE_EXPORT_JSON  # Импортируем переменные из config.py
 
 def get_save_path(category_id):
     if category_id == 31:
         return SAVE_PATH_PC
     elif category_id == 98:
         return SAVE_PATH_NB
+    elif category_id == 101:
+        return SAVE_PATH_VIDEOCARD
     else:
         return SAVE_PATH
+
 
 def save_images(item):
     item_id = str(item["id"])

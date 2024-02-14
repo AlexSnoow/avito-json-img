@@ -1,5 +1,3 @@
-Москва 637640
-
 https://www.avito.ru/web/1/js/items?locationId=637640&categoryId=31
 https://www.avito.ru/web/1/js/items?locationId=637640&name=игровой компьютер
 https://www.avito.ru/web/1/js/items?locationId=637640&name=игровой ПК
@@ -20,23 +18,33 @@ https://www.avito.ru/web/1/js/items?locationId=633540&categoryId=98 - Красн
 https://www.avito.ru/web/1/js/items?locationId=34241905&categoryId=98 - Краснодар
 https://www.avito.ru/web/1/js/items?locationId=653240&categoryId=98 - Питер
 
+Видеокарты
+https://www.avito.ru/web/1/js/items?locationId=637640&categoryId=101 - Москва
+https://www.avito.ru/web/1/js/items?locationId=633540&categoryId=101 - Краснодар
+https://www.avito.ru/web/1/js/items?locationId=641780&categoryId=101 - Новосиб
+https://www.avito.ru/web/1/js/items?locationId=653240&categoryId=101 - Питер
+https://www.avito.ru/web/1/js/items?locationId=653040&categoryId=101 - Самара
+
 https://www.avito.ru/web/1/js/items?locationId=653240&name=игровой компьютер
 
 
 https://www.avito.ru/web/1/js/items?locationId=633540&name=системный блок
 
-locationId=629990 - Калинград
 
-https://www.avito.ru/web/1/js/items?address=Воронежская обл., Воронеж&categoryId=31
+
+locationId=629990 - Калинград
 
 637640 - Москва
 633540 - Краснодар
+653240 - Питер
+630090 - Калининград
+641780  - Новосибирск
+653040 - Самара
+628970 - Иркутск
 
 34241905 - Краснодар
-653240 - Питер
-
-630090 - Калининград
-
+35456 - Питер
+--------------
 categoryId=98 - категория ноутбуки
 categoryId=31 - ПК
 
@@ -49,10 +57,8 @@ https://www.avito.ru/shops/322795430/blockForItem?baseItemId=3747658504 - инф
 https://www.avito.ru/krasnodar/nastolnye_kompyutery/igrovoy_pk_s_monitorom_gtx_1070_8_gb_3681358576
 f12 - приложение - локальное хранилище - ключ(recentSearch) - Значение
 
-
-
-
-    "catalog": {
-        "items": [
-            {
-                "id": 2052308141
+--------------------
+audio_i_video=32
+nedvizhimost=4
+Видеокарты=101
+Ремонт Видеокарт=114

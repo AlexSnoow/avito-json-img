@@ -1,0 +1,1014 @@
+{
+    "url": "/sankt-peterburg/noutbuki?localPriority=0",
+    "searchHash": "6709osto3c3q5562ux0uso37f81g6c6",
+    "catalog": {
+        "items": [
+            {
+                "id": 3625311573,
+                "categoryId": 98,
+                "locationId": 653240,
+                "isVerifiedItem": false,
+                "urlPath": "/sankt-peterburg/noutbuki/zaschischennye_noutbuki_panasonic_dell_getac_3625311573",
+                "title": "Защищенные ноутбуки ",
+                "description": "Защищенный ноутбук",
+                "category": {
+                    "id": 98,
+                    "name": "Ноутбуки",
+                    "slug": "noutbuki",
+                    "rootId": 6,
+                    "compare": false,
+                    "pageRootId": 6
+                },
+                "location": {
+                    "id": 653240,
+                    "name": "Санкт-Петербург",
+                    "namePrepositional": "Санкт-Петербурге",
+                    "isCurrent": true,
+                    "isRegion": false
+                },
+                "addressDetailed": {
+                    "locationName": "Санкт-Петербург"
+                },
+                "sortTimeStamp": 1706655000000,
+                "priceDetailed": {
+                    "enabled": true,
+                    "fullString": "25 000 ₽",
+                    "hasValue": true,
+                    "postfix": "",
+                    "string": "25 000",
+                    "stringWithoutDiscount": null,
+                    "title": {
+                        "full": "Цена",
+                        "short": "Цена"
+                    },
+                    "titleDative": "цене",
+                    "value": 25000,
+                    "wasLowered": false,
+                    "exponent": "25 тыс."
+                },
+                "normalizedPrice": null,
+                "priceWithoutDiscount": null,
+                "discountPercent": null,
+                "images": [
+                    {
+                        "864x864": "https://40.img.avito.st/image/1"
+                    },
+                    {
+                        "864x864": "https://40.img.avito.st/image/1"
+                    },
+                    {
+                        "864x864": "https://40.img.avito.st/image/1"
+                    },
+                    {
+                        "864x864": "https://40.img.avito.st/image/1"
+                    },
+                    {
+                        "864x864": "https://40.img.avito.st/image/1"
+                    },
+                    {
+                        "864x864": "https://40.img.avito.st/image/1"
+                    },
+                    {
+                        "864x864": "https://40.img.avito.st/image/1"
+                    },
+                    {
+                        "864x864": "https://40.img.avito.st/image/1"
+                    },
+                    {
+                        "864x864": "https://40.img.avito.st/image/1"
+                    },
+                    {
+                        "864x864": "https://40.img.avito.st/image/1"
+                    }
+                ],
+                "imagesCount": 10,
+                "isFavorite": false,
+                "geo": {
+                    "geoReferences": [
+                        {
+                            "content": "Проспект Просвещения",
+                            "colors": [
+                                "#0078C9"
+                            ],
+                            "after": " 1,2 км",
+                            "afterWithIcon": {
+                                "text": "16–20 мин.",
+                                "iconName": "walkingRoute16"
+                            }
+                        }
+                    ],
+                    "formattedAddress": ""
+                },
+                "phoneImage": null,
+                "cvViewed": false,
+                "isXl": true,
+                "hasFooter": false,
+                "contacts": {
+                    "phone": true,
+                    "delivery": false,
+                    "message": true,
+                    "messageTitle": "Написать",
+                    "action": "",
+                    "onModeration": false,
+                    "hasCVPackage": false,
+                    "hasEmployeeBalanceForCv": false,
+                    "serviceBooking": false
+                },
+                "gallery": {
+                    "alt": "10 фотографий",
+                    "cropImagesInfo": null,
+                    "extraPhoto": [
+                        "",
+                        ""
+                    ],
+                    "hasLeadgenOverlay": false,
+                    "has_big_image": true,
+                    "imageAlt": "Защищенные ноутбуки Panasonic Dell Getac",
+                    "imageLargeUrl": "",
+                    "imageLargeVipUrl": "",
+                    "imageUrl": "",
+                    "imageVipUrl": "",
+                    "image_large_urls": [],
+                    "image_urls": [],
+                    "images": [],
+                    "imagesCount": 10,
+                    "isFirstImageHighImportance": true,
+                    "isLazy": false,
+                    "noPhoto": false,
+                    "showSlider": true,
+                    "wideSnippetUrls": []
+                },
+                "loginLink": "#login?authsrc=ps\u0026next=/sankt-peterburg/noutbuki/zaschischennye_noutbuki_panasonic_dell_getac_3625311573?showPhoneNumber",
+                "authLink": "#login?authsrc=ps",
+                "userLogo": {
+                    "link": "/brands/rbm900?page_from=from_items_list_icon\u0026iid=3625311573",
+                    "src": "https://00.img.avito.st/image/1",
+                    "developerId": null
+                },
+                "isMarketplace": false,
+                "iva": {
+                    "AutoParamsStep": [],
+                    "AutoPartsManufacturerStep": [],
+                    "AutoTireInfoStep": [],
+                    "AutoTireManufacturerStep": [],
+                    "AutotekaStep": [],
+                    "BadgeBarStep": [
+                        {
+                            "componentData": {
+                                "component": "badgebar"
+                            },
+                            "payload": {
+                                "badges": [
+                                    {
+                                        "id": 43,
+                                        "title": "14 дней на возврат",
+                                        "version": 2,
+                                        "style": {
+                                            "backgroundColor": {
+                                                "value": "#02D15C",
+                                                "valueDark": "#04C454"
+                                            },
+                                            "fontColor": {
+                                                "value": "#FFFFFF",
+                                                "valueDark": "#E3E3E3"
+                                            },
+                                            "leftEdgeStyle": "flag",
+                                            "rightEdgeStyle": "pipka"
+                                        }
+                                    }
+                                ],
+                                "debug": {
+                                    "id": 3625311573,
+                                    "isVip": false
+                                }
+                            },
+                            "default": true
+                        }
+                    ],
+                    "BadgeStickerStep": [],
+                    "BadgesStep": [],
+                    "DateInfoStep": [
+                        {
+                            "componentData": {
+                                "component": "date-info"
+                            },
+                            "payload": {
+                                "absolute": "31 января 00:50",
+                                "debug": {
+                                    "id": 3625311573,
+                                    "isVip": false
+                                },
+                                "relative": "1 неделю назад"
+                            },
+                            "default": true
+                        },
+                        {
+                            "componentData": {
+                                "component": "vas"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3625311573,
+                                    "isVip": false
+                                },
+                                "isTooltipHidden": false,
+                                "vas": [
+                                    {
+                                        "slug": "bbip",
+                                        "title": "Продвинуто",
+                                        "link": "https://www.avito.ru/business/tools/promotion-new",
+                                        "icon": {
+                                            "default": "https://www.avito.st/s/common/components/monetization/icons/web/bbip.svg",
+                                            "small": "https://www.avito.st/s/common/components/monetization/icons/web/bbip-small.svg"
+                                        }
+                                    },
+                                    {
+                                        "slug": "xl",
+                                        "title": "XL",
+                                        "link": "https://support.avito.ru/articles/685",
+                                        "icon": {
+                                            "default": "https://www.avito.st/s/common/components/monetization/icons/web/xl.svg",
+                                            "small": "https://www.avito.st/s/common/components/monetization/icons/web/xl-small.svg"
+                                        }
+                                    },
+                                    {
+                                        "slug": "highlight",
+                                        "title": "Выделено",
+                                        "link": "https://support.avito.ru/articles/716",
+                                        "icon": {
+                                            "default": "https://www.avito.st/s/common/components/monetization/icons/web/highlight.svg",
+                                            "small": "https://www.avito.st/s/common/components/monetization/icons/web/highlight-small.svg"
+                                        }
+                                    }
+                                ]
+                            },
+                            "default": true
+                        }
+                    ],
+                    "DescriptionStep": [
+                        {
+                            "componentData": {
+                                "component": "description"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3625311573,
+                                    "isVip": false
+                                },
+                                "description": "Защищенный ноутбук",
+                                "urlPath": "/sankt-peterburg/noutbuki/zaschischennye_noutbuki_panasonic_dell_getac_3625311573"
+                            },
+                            "default": true
+                        }
+                    ],
+                    "DevelopmentNameStep": [],
+                    "FavoritesStep": [
+                        {
+                            "componentData": {
+                                "component": "favorites"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3625311573,
+                                    "isVip": false
+                                },
+                                "favorite": {
+                                    "access": {
+                                        "compare": false,
+                                        "favorite": true
+                                    },
+                                    "categorySlug": "noutbuki",
+                                    "fromBlock": null,
+                                    "fromPage": "catalog",
+                                    "id": 3625311573,
+                                    "isFavorite": false,
+                                    "rootCategoryId": 6,
+                                    "searchHash": "6709osto3c3q5562ux0uso37f81g6c6"
+                                }
+                            },
+                            "default": true
+                        }
+                    ],
+                    "FirstLineStep": [],
+                    "FourthLineStep": [],
+                    "GeoStep": [
+                        {
+                            "componentData": {
+                                "component": "geo"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3625311573,
+                                    "isVip": false
+                                },
+                                "geoForItems": {
+                                    "addressLocality": "Санкт-Петербург",
+                                    "formattedAddress": "",
+                                    "geoReferences": [
+                                        {
+                                            "content": "Проспект Просвещения",
+                                            "colors": [
+                                                "#0078C9"
+                                            ],
+                                            "after": " 1,2 км",
+                                            "afterWithIcon": {
+                                                "text": "16–20 мин.",
+                                                "iconName": "walkingRoute16"
+                                            }
+                                        }
+                                    ],
+                                    "multiAddressesInfo": null,
+                                    "radiusInfo": null
+                                }
+                            },
+                            "default": true
+                        },
+                        {
+                            "componentData": {
+                                "component": "delivery"
+                            },
+                            "payload": {
+                                "icon": {
+                                    "display": false
+                                },
+                                "id": 3625311573,
+                                "text": "Доставка от 1 дня"
+                            },
+                            "default": true
+                        }
+                    ],
+                    "GroupingsStep": [],
+                    "ItemNotesStep": [],
+                    "OEMStep": [],
+                    "PriceListStep": [],
+                    "PriceStep": [
+                        {
+                            "componentData": {
+                                "component": "price"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3625311573,
+                                    "isVip": false
+                                },
+                                "isHighlighted": true,
+                                "normalizedPrice": null,
+                                "priceDetailed": {
+                                    "postfix": "",
+                                    "string": "25 000",
+                                    "stringWithoutDiscount": null,
+                                    "value": 25000,
+                                    "wasLowered": false
+                                }
+                            },
+                            "default": true
+                        },
+                        {
+                            "componentData": {
+                                "component": "delivery"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3625311573,
+                                    "isVip": false
+                                },
+                                "id": 3625311573,
+                                "withHover": true
+                            },
+                            "default": true
+                        }
+                    ],
+                    "SecondLineStep": [
+                        {
+                            "componentData": {
+                                "component": "text"
+                            },
+                            "payload": {
+                                "color": "gray44",
+                                "isHideWide": true,
+                                "value": "Компания"
+                            },
+                            "default": true
+                        }
+                    ],
+                    "ThirdLineStep": [],
+                    "TitleStep": [
+                        {
+                            "componentData": {
+                                "component": "title"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3625311573,
+                                    "isVip": false
+                                },
+                                "seo": {
+                                    "title": "Защищенные "
+                                },
+                                "title": "Защищенные ноутбуки Panasonic Dell Getac",
+                                "urlPath": "/sankt-peterburg/noutbuki/zaschischennye_noutbuki_panasonic_dell_getac_3625311573"
+                            },
+                            "default": true
+                        }
+                    ],
+                    "UserInfoStep": [
+                        {
+                            "componentData": {
+                                "component": "seller-info"
+                            },
+                            "payload": {
+                                "profile": {
+                                    "link": "/user/8193f88de82805836358d49e7bba4188/profile?src=search_seller_info",
+                                    "title": "RBM ELECTRONICS – Защищенные ноутбуки и планшеты из США."
+                                },
+                                "rating": {
+                                    "score": 5,
+                                    "summary": "21 отзыв"
+                                },
+                                "showLink": true
+                            },
+                            "default": true
+                        },
+                        {
+                            "componentData": {
+                                "component": "seller-badgebar"
+                            },
+                            "payload": {
+                                "badges": [
+                                    {
+                                        "id": 2360,
+                                        "title": "Реквизиты проверены",
+                                        "version": 1,
+                                        "style": {
+                                            "backgroundColor": {
+                                                "value": "#CCECFF",
+                                                "valueDark": "#004078"
+                                            },
+                                            "fontColor": {
+                                                "value": "#000000",
+                                                "valueDark": "#E3E3E3"
+                                            }
+                                        }
+                                    }
+                                ],
+                                "debug": {
+                                    "id": 3625311573,
+                                    "isVip": false
+                                }
+                            },
+                            "default": true
+                        }
+                    ]
+                },
+                "hasVideo": false,
+                "nativeVideoAbCategory": "goods",
+                "hasRealtyLayout": false,
+                "coords": {
+                    "lat": "60.053677838781695",
+                    "lng": "30.310762613208297",
+                    "zoom": 16,
+                    "precision": 0,
+                    "address_user": "Выборгское ш., 17к1"
+                },
+                "groupData": null,
+                "isReMapPromotion": false,
+                "nativeVideo": {
+                    "videoUrl": "https://kinescope.io/9jvSghTnQVsr3yXyk2rTN9/preview",
+                    "thumbnail": {
+                        "208x208": "https://00.img.avito.st/image/1/1.RQo-7ra16eMoTkviOMtvPjJM6-OARUviKE7r4Q.kDmlf42rg92Z2VJDWBt65gzic41osUHxCSx3CP569AI",
+                        "236x236": "https://00.img.avito.st/image/1/1.RQo-7ra16eNQTjPiOMtvPjJM6-OARTPiUE7r4Q.gCQAV5JwYLnFDlrFnYV4z7R0EEf2iYfiWLS-BV164zQ",
+                        "318x318": "https://00.img.avito.st/image/1/1.RQo-7ra16eN0SRflOMtvPjJM6-OARRfldEnr4Q.MDyWmnk_G_FXB7rCpPdcGemDYPxoNbVmErTKlIrLYak",
+                        "416x416": "https://00.img.avito.st/image/1/1.RQo-7ra16eNISyvnOMtvPjJM6-OARSvnSEvr4Q.mt2zQkW8E2LqDfp2I6MLgi1kVzUZpsMBJ5cREpIiK6A",
+                        "432x432": "https://00.img.avito.st/image/1/1.RQo-7ra16eNoSwvnOMtvPjJM6-OARQvnaEvr4Q.Iv3txcouRktx4ka1xe57m7QVSE3NZrJDKGAvgY7kTLE",
+                        "472x472": "https://00.img.avito.st/image/1/1.RQo-7ra16eM4SlvmOMtvPjJM6-OARVvmOErr4Q.t2StDUYySjTtPzkCdOMPLYN8BS66uEHKJT5_zvRs1GU",
+                        "636x636": "https://00.img.avito.st/image/1/1.RQo-7ra16eNwRBPoOMtvPjJM6-OARRPocETr4Q.qHdMfpiIg835oaudCSwAphncqUQK32PVJ4MBC5PhiZM",
+                        "864x864": "https://00.img.avito.st/image/1/1.RQo-7ra16eNIQCvsOMtvPjJM6-OARSvsSEDr4Q.6n2oy7vp7eHtXL6K_8dYnt_eqF-8wB7OdJfIQJYKBHo"
+                    }
+                },
+                "isReserved": false,
+                "type": "item",
+                "ratingExperimentGroup": "names_and_badges_and_rating",
+                "isRatingExperiment": true,
+                "isAnonymousProfile": false,
+                "rating": {
+                    "score": 5,
+                    "summary": "21 отзыв"
+                },
+                "closedItemsText": "1046 завершённых объявлений",
+                "isNDPrivateChat": false,
+                "LoadedInfomodelParams": null
+            },
+            {
+                "id": 3914065948,
+                "categoryId": 98,
+                "locationId": 653240,
+                "isVerifiedItem": false,
+                "urlPath": "/sankt-peterburg/noutbuki/moschnyy_noutbuk_acer_na_garantii_3914065948",
+                "title": "Мощный ноутбук Acer на гарантии",
+                "description": "Мощный ноутбук Acer на гарантии.\n\nДобавляйте объявление в избранное, чтобы получить скидку в 500₽.\n\nГарантия до 12 месяцев и бесплатная доставка.\n\nУникальное предложение для жителей Санкт-Петербурга: широкий выбор бу ноутбуков по самым выгодным ценам!\n\nОфисные ноутбуки, ноутбуки для работы и дома от 8900 до 27000₽.\n\nИгровые ноутбуки core i3/i5/i7 от 16900 до 70000₽ Gtx и Rtx.\n\n4/8/12/16/32gb оперативной памяти.\n\nSsd 128/256/512gb.\n\nОбслуженные протестированные ноутбуки с гарантией, ниже новых на 30-50%.\n\nНаши ноутбуки — это идеальное сочетание качества и доступности, предоставляющее вам возможность приобрести высокотехнологичное устройство по оптимальной цене.\n\nНезависимо от того, нужен вам ноутбук для работы, учебы или профессиональных задач, мы гарантируем, что у нас вы найдете то, что идеально подходит именно для вас.\n\nНе упустите шанс обновить свою технику! Ограниченное количество предложений, успейте выбрать свой идеальный ноутбук прямо сейчас!\n\nОбъявление рекламное. Пишите или звоните, чтобы узнать о наличии. Поможем с выбором.\n\nДелаем всё возможное, чтобы как можно больше людей воспользовалось нашим качественным сервисом и обслуживанием.\n\nДобавь в избранное.",
+                "category": {
+                    "id": 98,
+                    "name": "Ноутбуки",
+                    "slug": "noutbuki",
+                    "rootId": 6,
+                    "compare": false,
+                    "pageRootId": 6
+                },
+                "location": {
+                    "id": 653240,
+                    "name": "Санкт-Петербург",
+                    "namePrepositional": "Санкт-Петербурге",
+                    "isCurrent": true,
+                    "isRegion": false
+                },
+                "addressDetailed": {
+                    "locationName": "Санкт-Петербург"
+                },
+                "sortTimeStamp": 1707286020000,
+                "priceDetailed": {
+                    "enabled": true,
+                    "fullString": "11 900 ₽",
+                    "hasValue": true,
+                    "postfix": "",
+                    "string": "11 900",
+                    "stringWithoutDiscount": null,
+                    "title": {
+                        "full": "Цена",
+                        "short": "Цена"
+                    },
+                    "titleDative": "цене",
+                    "value": 11900,
+                    "wasLowered": false,
+                    "exponent": "12 тыс."
+                },
+                "normalizedPrice": null,
+                "priceWithoutDiscount": null,
+                "discountPercent": null,
+                "images": [
+                    {
+                        "208x208": "https://50.img.avito.st/image/1/1.xxWw17a1a_ymd8n9sozYFr11afwOfMn9pndp_g.33ic1AfEmPUaus6p3ZGLFLmG5nRrEMWCdiY-XURjlgU",
+                        "236x236": "https://50.img.avito.st/image/1/1.xxWw17a1a_zed7H9sozYFr11afwOfLH93ndp_g.lDYt7W72V5Xj6Yl2vmOuzzPWVxzf3Hul_3uczBtriks",
+                        "318x318": "https://50.img.avito.st/image/1/1.xxWw17a1a_z6cJX6sozYFr11afwOfJX6-nBp_g.8LaczlcMASr7JKOBCtQ74vJEXCJ6JVcEvwh6Cb9Kb5I",
+                        "416x416": "https://50.img.avito.st/image/1/1.xxWw17a1a_zGcqn4sozYFr11afwOfKn4xnJp_g.FLNjBhJLZIcDoZGSrWevB-PesBqL-gS2PbwOPAj73KM",
+                        "432x432": "https://50.img.avito.st/image/1/1.xxWw17a1a_zmcon4sozYFr11afwOfIn45nJp_g.4U57zmt6gpUuI_6Wo35cZZbEHDCJcYLsGIAAlB6bDe4",
+                        "472x472": "https://50.img.avito.st/image/1/1.xxWw17a1a_y2c9n5sozYFr11afwOfNn5tnNp_g.Lg6MPU5T_seu8TAsBMh4_vcKxZblz8DIQy6hBo0uWyQ",
+                        "636x636": "https://50.img.avito.st/image/1/1.xxWw17a1a_z-fZH3sozYFr11afwOfJH3_n1p_g.g52NMARQjEBrKw7_fgR5fmtyu-ReamK9UOPK6iKMS-g",
+                        "864x864": "https://50.img.avito.st/image/1/1.xxWw17a1a_zGeanzsozYFr11afwOfKnzxnlp_g.VWESTTTBo8kg3THccigMgL_Sff957Mzp0FCG17ZnW6Q"
+                    },
+                    {
+                        "208x208": "https://30.img.avito.st/image/1/1.oqUVGra1DkwDuqxNXWTiuBi4DEyrsaxNA7oMTg.Ai5Z2C0DbZT9Csbt8nnTRCF5EA4vaMVKM_wgSTDmPfE",
+                        "236x236": "https://30.img.avito.st/image/1/1.oqUVGra1Dkx7utRNXWTiuBi4DEyrsdRNe7oMTg.UCpVxPfWHiBaSckkyifRdG9SyZgIx54i_lxXo2ecquo",
+                        "318x318": "https://30.img.avito.st/image/1/1.oqUVGra1DkxfvfBKXWTiuBi4DEyrsfBKX70MTg.gdVKCj1j-4VHDrTEN-oWspZ8BQDlKS2FewAfeH-H8jM",
+                        "416x416": "https://30.img.avito.st/image/1/1.oqUVGra1Dkxjv8xIXWTiuBi4DEyrscxIY78MTg.wBTP1NviabyJub62TpZkhu9mUMbt941LgMHvfQKCuc4",
+                        "432x432": "https://30.img.avito.st/image/1/1.oqUVGra1DkxDv-xIXWTiuBi4DEyrsexIQ78MTg.fR72KuoX9d9g1sntvCZ6LMJOyN035CcK-wVdM1-XlRY",
+                        "472x472": "https://30.img.avito.st/image/1/1.oqUVGra1DkwTvrxJXWTiuBi4DEyrsbxJE74MTg.8jRY1gX48zPxL2uCcsOcQLTJRmyR6_hDGIzSrFLsG6g",
+                        "636x636": "https://30.img.avito.st/image/1/1.oqUVGra1DkxbsPRHXWTiuBi4DEyrsfRHW7AMTg.Du4e8ulPlV38-4bXQ-mk-epBGm8q-0uXWVbDQyUoxuc",
+                        "864x864": "https://30.img.avito.st/image/1/1.oqUVGra1DkxjtMxDXWTiuBi4DEyrscxDY7QMTg._CBUyxLAlo2vUbLPJ4E3GFsLclrTH8D0Rg8vQy1PSbY"
+                    },
+                    {
+                        "208x208": "https://60.img.avito.st/image/1/1.1TcR-ra1ed4HWtvfN4GVKhxYe96vUdvfB1p73A.tNPJkEaOolr6j2CfO7CzZdWNCvLw-zbkqmSb1IysxQI",
+                        "236x236": "https://60.img.avito.st/image/1/1.1TcR-ra1ed5_WqPfN4GVKhxYe96vUaPff1p73A.DfAO0JSsqAfW55hQcaMWFzI8RxnTE83JBTwzQjpWvmo",
+                        "318x318": "https://60.img.avito.st/image/1/1.1TcR-ra1ed5bXYfYN4GVKhxYe96vUYfYW1173A.Zp6rkVt60hLGQl3uBsob14NOg1SaNaut1cyUiNSqz7A",
+                        "416x416": "https://60.img.avito.st/image/1/1.1TcR-ra1ed5nX7vaN4GVKhxYe96vUbvaZ1973A.xCWHUmvpFC_vBitNy7mbQvzICsSzzPozHiGC5UYbHXs",
+                        "432x432": "https://60.img.avito.st/image/1/1.1TcR-ra1ed5HX5vaN4GVKhxYe96vUZvaR1973A.hkv-3wwE6p7J46tlvwsVIz-4GumMaHqrNEzMrAi0UD8",
+                        "472x472": "https://60.img.avito.st/image/1/1.1TcR-ra1ed4XXsvbN4GVKhxYe96vUcvbF1573A.Z2LdD82LgRPGyA_z0crjpewV11rhLxMsxj10QUTakLw",
+                        "636x636": "https://60.img.avito.st/image/1/1.1TcR-ra1ed5fUIPVN4GVKhxYe96vUYPVX1B73A.v7mtNya8fXSirpBu9xe5J7M0nighb4hBHt7N7pdXGUc",
+                        "864x864": "https://60.img.avito.st/image/1/1.1TcR-ra1ed5nVLvRN4GVKhxYe96vUbvRZ1R73A.OUbM1sq9pol-nr_iwYhvQr_tfWJLCm3GgCEuGEAg8i4"
+                    },
+                    {
+                        "208x208": "https://80.img.avito.st/image/1/1.8GVTmra1XIxFOv6NP9WweF44XoztMf6NRTpejg.rG06LAyq7PcvRyaAEGzxl8jAMhkgwBlE5FJRuSknMnY",
+                        "236x236": "https://80.img.avito.st/image/1/1.8GVTmra1XIw9OoaNP9WweF44XoztMYaNPTpejg.Vcz1nhvs8JFpErGoDWwDZ9MrWbNcmctsjCfXwCMXNrM",
+                        "318x318": "https://80.img.avito.st/image/1/1.8GVTmra1XIwZPaKKP9WweF44XoztMaKKGT1ejg.hLkpoEG8wOzAU440DoNVTXEJG8vd437UlqOapYyUCBE",
+                        "416x416": "https://80.img.avito.st/image/1/1.8GVTmra1XIwlP56IP9WweF44XoztMZ6IJT9ejg.ALOZ0UziiPJZwSSaGbzlxlFqjwsrEiy6xmkyuQUlubM",
+                        "432x432": "https://80.img.avito.st/image/1/1.8GVTmra1XIwFP76IP9WweF44XoztMb6IBT9ejg.cdW5jDRirzZLYwiGtE0KYbufA1CVyeCo1aHuTiLYUQs",
+                        "472x472": "https://80.img.avito.st/image/1/1.8GVTmra1XIxVPu6JP9WweF44XoztMe6JVT5ejg.JqdiEykimzuuysxdbB6G2K9kc2cqzaQnLihwe6mA8Nc",
+                        "636x636": "https://80.img.avito.st/image/1/1.8GVTmra1XIwdMKaHP9WweF44XoztMaaHHTBejg.T_fVRROCpKd0GCYq-EERWCVP2jxXVaulLf8TJw8MCDI",
+                        "864x864": "https://80.img.avito.st/image/1/1.8GVTmra1XIwlNJ6DP9WweF44XoztMZ6DJTRejg.233cSO2xikHl2v1jm6zpbngXTKfu3Ymk27EXLULw_2s"
+                    },
+                    {
+                        "208x208": "https://30.img.avito.st/image/1/1.W5kqxLa193A8ZFVxEJ0bhCdm9XCUb1VxPGT1cg.6Aj3X8KY36g3AdS3HqxBqF_HazQF5_ib6rHCZvW6mAI",
+                        "236x236": "https://30.img.avito.st/image/1/1.W5kqxLa193BEZC1xEJ0bhCdm9XCUby1xRGT1cg.tkph59ujXN0NNGHovJSFpAROGeRobqoasGX4NiknHnc",
+                        "318x318": "https://30.img.avito.st/image/1/1.W5kqxLa193BgYwl2EJ0bhCdm9XCUbwl2YGP1cg.2o96kJyAGJW8b6XldfWRbBAj8LwFV-t6IasV7Wb99g0",
+                        "416x416": "https://30.img.avito.st/image/1/1.W5kqxLa193BcYTV0EJ0bhCdm9XCUbzV0XGH1cg.Uo3HcJ31Q-iHhw6s-lpiqJ8G1ppnWx5UOeYFLuYQ4xQ",
+                        "432x432": "https://30.img.avito.st/image/1/1.W5kqxLa193B8YRV0EJ0bhCdm9XCUbxV0fGH1cg.7IEKu0SuXd90VXagUQ3sNKqVP2uvIm5Z4eUilAYXoBY",
+                        "472x472": "https://30.img.avito.st/image/1/1.W5kqxLa193AsYEV1EJ0bhCdm9XCUb0V1LGD1cg.mZMWTE6veV7oSWvpPhh0UQHvadnsn7bCJycxqJhGrFo",
+                        "636x636": "https://30.img.avito.st/image/1/1.W5kqxLa193Bkbg17EJ0bhCdm9XCUbw17ZG71cg.Jfc2fnXMS61YbU-sZpSF-bkiJnyZgiARKbjLVMjI12g",
+                        "864x864": "https://30.img.avito.st/image/1/1.W5kqxLa193BcajV_EJ0bhCdm9XCUbzV_XGr1cg.4ZlcjyknVJ-Up64Vqkbk0_EIxfxWABbKkYWtJbh-tzA"
+                    },
+                    {
+                        "208x208": "https://90.img.avito.st/image/1/1.O5kq5La1l3A8RDVxULh7hCdGlXCUTzVxPESVcg.jAljHHE_PK82dHbALzEsl4noDRcSD5yhFhi_WrYDOW0",
+                        "236x236": "https://90.img.avito.st/image/1/1.O5kq5La1l3BERE1xULh7hCdGlXCUT01xRESVcg.eIUkvIXlnza3rQ_GJDj2P2Q65jIhSwPNiosQb6pi6Z4",
+                        "318x318": "https://90.img.avito.st/image/1/1.O5kq5La1l3BgQ2l2ULh7hCdGlXCUT2l2YEOVcg.GFG_IYpMhHK6euyoef1JCKrS0AFoNsWnbc9l8ibM_os",
+                        "416x416": "https://90.img.avito.st/image/1/1.O5kq5La1l3BcQVV0ULh7hCdGlXCUT1V0XEGVcg.wMtw1fRD368iZDw3YmVl_nZaF973FHcPe54qwYiGMpk",
+                        "432x432": "https://90.img.avito.st/image/1/1.O5kq5La1l3B8QXV0ULh7hCdGlXCUT3V0fEGVcg.37C5fj4-74J7Oj3cr8mJJeMJ7RTXaZJsbBc_vvvyEzc",
+                        "472x472": "https://90.img.avito.st/image/1/1.O5kq5La1l3AsQCV1ULh7hCdGlXCUTyV1LECVcg.1eXAPjyQkPyXxQsykeNaFIuCvcSs0AjG_SSpzM4NCVI",
+                        "636x636": "https://90.img.avito.st/image/1/1.O5kq5La1l3BkTm17ULh7hCdGlXCUT217ZE6Vcg.0E5pbdwFTdpF7WrJoi7s1-MDhQSeboaD1UAKg4QgXOM",
+                        "864x864": "https://90.img.avito.st/image/1/1.O5kq5La1l3BcSlV_ULh7hCdGlXCUT1V_XEqVcg.TXf1zPw4uyKUE85KgpcfDprjP3cCUhAPpTmjq1yHX5s"
+                    },
+                    {
+                        "208x208": "https://60.img.avito.st/image/1/1.alL7QLa1xrvt4GS6o20rT_bixLtF62S67eDEuQ.9lQMDQGjTTSPNB566cQnjvPSmpyw8snlB4ls3mlWpDI",
+                        "236x236": "https://60.img.avito.st/image/1/1.alL7QLa1xruV4By6o20rT_bixLtF6xy6leDEuQ.iChMF-n9l2VCNzcVx-DZ7v3PxMPeO6fkk1D7NfgFH2s",
+                        "318x318": "https://60.img.avito.st/image/1/1.alL7QLa1xrux5zi9o20rT_bixLtF6zi9sefEuQ.UiGTc00CKo1dT2fd2pbXPTsE7aU6E5-mo7ejux9L95g",
+                        "416x416": "https://60.img.avito.st/image/1/1.alL7QLa1xruN5QS_o20rT_bixLtF6wS_jeXEuQ.R16ilrrbnobj5ReYve946DivBbKyv81fT8po1AnSEKA",
+                        "432x432": "https://60.img.avito.st/image/1/1.alL7QLa1xrut5SS_o20rT_bixLtF6yS_reXEuQ.f7MdTeQJhULsltPZTepGecU1IVf8ANc8W0Oxl84oyLA",
+                        "472x472": "https://60.img.avito.st/image/1/1.alL7QLa1xrv95HS-o20rT_bixLtF63S-_eTEuQ.PcCFWa4a90DqoXnsVroyJ2aWNVoKf75I0tzCe65SuP0",
+                        "636x636": "https://60.img.avito.st/image/1/1.alL7QLa1xru16jywo20rT_bixLtF6zywterEuQ.ikyJiiIL2dijYcyya4yM-JAzpIyMGVbK8Y7OPyM31Z0",
+                        "864x864": "https://60.img.avito.st/image/1/1.alL7QLa1xruN7gS0o20rT_bixLtF6wS0je7EuQ.f1lHihJTHcTxsnxLvyThWtXLlMB8Ln5ZWD4NbdlPO7g"
+                    },
+                    {
+                        "208x208": "https://40.img.avito.st/image/1/1.TLjWTba14FHA7UJQwngNpdvv4lFo5kJQwO3iUw.Kuf81vbrIJy03cg-QMNWffK9ZYG768qTJaNf8ggNMMA",
+                        "236x236": "https://40.img.avito.st/image/1/1.TLjWTba14FG47TpQwngNpdvv4lFo5jpQuO3iUw.6OHDIwsXDHkeYmmx13wYnx18Aui5mT9vuLEQWMbtnXg",
+                        "318x318": "https://40.img.avito.st/image/1/1.TLjWTba14FGc6h5XwngNpdvv4lFo5h5XnOriUw.98wOEiE3ksBKcSi5j5Uyvq8_yD5MDv7mapegl4FzDm4",
+                        "416x416": "https://40.img.avito.st/image/1/1.TLjWTba14FGg6CJVwngNpdvv4lFo5iJVoOjiUw._QadG0IFiLS-LJtGraD6wQKQaAMHlK5yX5kbArxt9eE",
+                        "432x432": "https://40.img.avito.st/image/1/1.TLjWTba14FGA6AJVwngNpdvv4lFo5gJVgOjiUw.CKWtf4kHKKR6FQ9XUa_cJcYynSPw5zuEw57QffCAOA4",
+                        "472x472": "https://40.img.avito.st/image/1/1.TLjWTba14FHQ6VJUwngNpdvv4lFo5lJU0OniUw.htSo7jZCExLZC34va3k-cdqsIcfVGj5WCY4vvhYbQ_o",
+                        "636x636": "https://40.img.avito.st/image/1/1.TLjWTba14FGY5xpawngNpdvv4lFo5hpamOfiUw.cQjjr-sTw9XyuXMXSmyKJc9rVycWp4yRZAhl2mWITvg",
+                        "864x864": "https://40.img.avito.st/image/1/1.TLjWTba14FGg4yJewngNpdvv4lFo5iJeoOPiUw.3bUQi0T4vGYFBOjrwTaAKHBVYtf1pe1p1u_qbi1rNfU"
+                    },
+                    {
+                        "208x208": "https://30.img.avito.st/image/1/1.m5ksBLa1N3A6pJVxFgbahCGmNXCSr5VxOqQ1cg.-P9thrInm5FefwHKa7S6X6w7dd_pq9fnA-z6DPiAGH4",
+                        "236x236": "https://30.img.avito.st/image/1/1.m5ksBLa1N3BCpO1xFgbahCGmNXCSr-1xQqQ1cg.eDfKSeVFB_JUuTziba-swqR5gbP0Cf4mtN5BMZBH1v4",
+                        "318x318": "https://30.img.avito.st/image/1/1.m5ksBLa1N3Bmo8l2FgbahCGmNXCSr8l2ZqM1cg.Jkx4Kx7LSsXJmiSdT4arIMlSvl9meSWv4ylbajL52dc",
+                        "416x416": "https://30.img.avito.st/image/1/1.m5ksBLa1N3BaofV0FgbahCGmNXCSr_V0WqE1cg.lIJSbyJ1B5f1_65akoimj552_02laSR5wxcfd9OfNmU",
+                        "432x432": "https://30.img.avito.st/image/1/1.m5ksBLa1N3B6odV0FgbahCGmNXCSr9V0eqE1cg.LXRZjcXJm9iX06c4LYubsc-1WoyawAYSlOp8LPV91no",
+                        "472x472": "https://30.img.avito.st/image/1/1.m5ksBLa1N3AqoIV1FgbahCGmNXCSr4V1KqA1cg.1_PXtcPxNutEmsj09LF5u33drzrRM7sAlpjFRskuDPA",
+                        "636x636": "https://30.img.avito.st/image/1/1.m5ksBLa1N3Birs17FgbahCGmNXCSr817Yq41cg.zur7rulqmIqJMMXYtuB-okRi6lEu_ffKN2_DIn4rczY",
+                        "864x864": "https://30.img.avito.st/image/1/1.m5ksBLa1N3BaqvV_FgbahCGmNXCSr_V_Wqo1cg.-3-htttxE986cwzUlHeRS5Ji9TQ8ue32VlAyYDyMZJs"
+                    },
+                    {
+                        "208x208": "https://50.img.avito.st/image/1/1.jLjqTba1IFH87YJQ_kfNpefvIlFU5oJQ_O0iUw.8vJ1mkQzQcQ7GESD_ytYbkVWT4ghkI3QmWD8leR6Iuc",
+                        "236x236": "https://50.img.avito.st/image/1/1.jLjqTba1IFGE7fpQ_kfNpefvIlFU5vpQhO0iUw.mbn3eAid7yeJDdyDP9zGYrqF6Fa0sFnoV_PbhBsQYX4",
+                        "318x318": "https://50.img.avito.st/image/1/1.jLjqTba1IFGg6t5X_kfNpefvIlFU5t5XoOoiUw.zgOfsy5C2tg05T61gsZChQ3vZZhvP6-oG5g7FMJBKzU",
+                        "416x416": "https://50.img.avito.st/image/1/1.jLjqTba1IFGc6OJV_kfNpefvIlFU5uJVnOgiUw.d6Lg7e3HSS6Gj_YifsMp1Mi1ZeVEVPAhfF0L-CVt29A",
+                        "432x432": "https://50.img.avito.st/image/1/1.jLjqTba1IFG86MJV_kfNpefvIlFU5sJVvOgiUw.__pNJnbApGxH7cwPCt_PFcVGS4xnwwXRPbMp1rN7koU",
+                        "472x472": "https://50.img.avito.st/image/1/1.jLjqTba1IFHs6ZJU_kfNpefvIlFU5pJU7OkiUw.SULEOS0kqS_rsq30AEeQgEXOKhb46Jqo4J4qN5YEc-Y",
+                        "636x636": "https://50.img.avito.st/image/1/1.jLjqTba1IFGk59pa_kfNpefvIlFU5tpapOciUw.gFPRNsYs9wvL3QPEk-6FBj4UuozBUXyrZFv2u6nTc7s",
+                        "864x864": "https://50.img.avito.st/image/1/1.jLjqTba1IFGc4-Je_kfNpefvIlFU5uJenOMiUw.ecTDq-CTgvUT2cQd3eEqM8HlzBSlkqdxC-glpPlc_3Q"
+                    }
+                ],
+                "imagesCount": 10,
+                "isFavorite": false,
+                "geo": {
+                    "geoReferences": [
+                        {
+                            "content": "Комендантский проспект",
+                            "colors": [
+                                "#702785"
+                            ],
+                            "after": " 700 м",
+                            "afterWithIcon": {
+                                "text": "11–15 мин.",
+                                "iconName": "walkingRoute16"
+                            }
+                        }
+                    ],
+                    "formattedAddress": ""
+                },
+                "phoneImage": null,
+                "cvViewed": false,
+                "isXl": true,
+                "hasFooter": false,
+                "contacts": {
+                    "phone": false,
+                    "delivery": false,
+                    "message": true,
+                    "messageTitle": "Написать",
+                    "action": "",
+                    "onModeration": false,
+                    "hasCVPackage": false,
+                    "hasEmployeeBalanceForCv": false,
+                    "serviceBooking": false
+                },
+                "gallery": {
+                    "alt": "10 фотографий",
+                    "cropImagesInfo": null,
+                    "extraPhoto": [
+                        "",
+                        ""
+                    ],
+                    "hasLeadgenOverlay": false,
+                    "has_big_image": true,
+                    "imageAlt": "Мощный ноутбук Acer на гарантии",
+                    "imageLargeUrl": "",
+                    "imageLargeVipUrl": "",
+                    "imageUrl": "",
+                    "imageVipUrl": "",
+                    "image_large_urls": [],
+                    "image_urls": [],
+                    "images": [],
+                    "imagesCount": 10,
+                    "isFirstImageHighImportance": true,
+                    "isLazy": false,
+                    "noPhoto": false,
+                    "showSlider": true,
+                    "wideSnippetUrls": []
+                },
+                "loginLink": "#login?authsrc=ps\u0026next=/sankt-peterburg/noutbuki/moschnyy_noutbuk_acer_na_garantii_3914065948?showPhoneNumber",
+                "authLink": "#login?authsrc=ps",
+                "userLogo": {
+                    "link": null,
+                    "src": null,
+                    "developerId": null
+                },
+                "isMarketplace": false,
+                "iva": {
+                    "AutoParamsStep": [],
+                    "AutoPartsManufacturerStep": [],
+                    "AutoTireInfoStep": [],
+                    "AutoTireManufacturerStep": [],
+                    "AutotekaStep": [],
+                    "BadgeStickerStep": [],
+                    "BadgesStep": [],
+                    "DateInfoStep": [
+                        {
+                            "componentData": {
+                                "component": "date-info"
+                            },
+                            "payload": {
+                                "absolute": "7 февраля 08:07",
+                                "debug": {
+                                    "id": 3914065948,
+                                    "isVip": false
+                                },
+                                "relative": "6 часов назад"
+                            },
+                            "default": true
+                        },
+                        {
+                            "componentData": {
+                                "component": "vas"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3914065948,
+                                    "isVip": false
+                                },
+                                "isTooltipHidden": false,
+                                "vas": [
+                                    {
+                                        "slug": "bbip",
+                                        "title": "Продвинуто",
+                                        "link": "https://www.avito.ru/business/tools/promotion-new",
+                                        "icon": {
+                                            "default": "https://www.avito.st/s/common/components/monetization/icons/web/bbip.svg",
+                                            "small": "https://www.avito.st/s/common/components/monetization/icons/web/bbip-small.svg"
+                                        }
+                                    },
+                                    {
+                                        "slug": "xl",
+                                        "title": "XL",
+                                        "link": "https://support.avito.ru/articles/685",
+                                        "icon": {
+                                            "default": "https://www.avito.st/s/common/components/monetization/icons/web/xl.svg",
+                                            "small": "https://www.avito.st/s/common/components/monetization/icons/web/xl-small.svg"
+                                        }
+                                    }
+                                ]
+                            },
+                            "default": true
+                        }
+                    ],
+                    "DescriptionStep": [
+                        {
+                            "componentData": {
+                                "component": "description"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3914065948,
+                                    "isVip": false
+                                },
+                                "description": "Мощный ноутбук Acer на гарантии.\n\nДобавляйте объявление в избранное, чтобы получить скидку в 500₽.\n\nГарантия до 12 месяцев и бесплатная доставка.\n\nУникальное предложение для жителей Санкт-Петербурга: широкий выбор бу ноутбуков по самым выгодным ценам!\n\nОфисные ноутбуки, ноутбуки для работы и дома от 8900 до 27000₽.\n\nИгровые ноутбуки core i3/i5/i7 от 16900 до 70000₽ Gtx и Rtx.\n\n4/8/12/16/32gb оперативной памяти.\n\nSsd 128/256/512gb.\n\nОбслуженные протестированные ноутбуки с гарантией, ниже новых на 30-50%.\n\nНаши ноутбуки — это идеальное сочетание качества и доступности, предоставляющее вам возможность приобрести высокотехнологичное устройство по оптимальной цене.\n\nНезависимо от того, нужен вам ноутбук для работы, учебы или профессиональных задач, мы гарантируем, что у нас вы найдете то, что идеально подходит именно для вас.\n\nНе упустите шанс обновить свою технику! Ограниченное количество предложений, успейте выбрать свой идеальный ноутбук прямо сейчас!\n\nОбъявление рекламное. Пишите или звоните, чтобы узнать о наличии. Поможем с выбором.\n\nДелаем всё возможное, чтобы как можно больше людей воспользовалось нашим качественным сервисом и обслуживанием.\n\nДобавь в избранное.",
+                                "urlPath": "/sankt-peterburg/noutbuki/moschnyy_noutbuk_acer_na_garantii_3914065948"
+                            },
+                            "default": true
+                        }
+                    ],
+                    "DevelopmentNameStep": [],
+                    "FavoritesStep": [
+                        {
+                            "componentData": {
+                                "component": "favorites"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3914065948,
+                                    "isVip": false
+                                },
+                                "favorite": {
+                                    "access": {
+                                        "compare": false,
+                                        "favorite": true
+                                    },
+                                    "categorySlug": "noutbuki",
+                                    "fromBlock": null,
+                                    "fromPage": "catalog",
+                                    "id": 3914065948,
+                                    "isFavorite": false,
+                                    "rootCategoryId": 6,
+                                    "searchHash": "6709osto3c3q5562ux0uso37f81g6c6"
+                                }
+                            },
+                            "default": true
+                        }
+                    ],
+                    "FirstLineStep": [],
+                    "FourthLineStep": [],
+                    "GeoStep": [
+                        {
+                            "componentData": {
+                                "component": "geo"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3914065948,
+                                    "isVip": false
+                                },
+                                "geoForItems": {
+                                    "addressLocality": "Санкт-Петербург",
+                                    "formattedAddress": "",
+                                    "geoReferences": [
+                                        {
+                                            "content": "Комендантский проспект",
+                                            "colors": [
+                                                "#702785"
+                                            ],
+                                            "after": " 700 м",
+                                            "afterWithIcon": {
+                                                "text": "11–15 мин.",
+                                                "iconName": "walkingRoute16"
+                                            }
+                                        }
+                                    ],
+                                    "multiAddressesInfo": null,
+                                    "radiusInfo": null
+                                }
+                            },
+                            "default": true
+                        },
+                        {
+                            "componentData": {
+                                "component": "delivery"
+                            },
+                            "payload": {
+                                "icon": {
+                                    "display": false
+                                },
+                                "id": 3914065948,
+                                "text": "Доставка от 1 дня"
+                            },
+                            "default": true
+                        }
+                    ],
+                    "GroupingsStep": [],
+                    "ItemNotesStep": [],
+                    "OEMStep": [],
+                    "PriceListStep": [],
+                    "PriceStep": [
+                        {
+                            "componentData": {
+                                "component": "price"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3914065948,
+                                    "isVip": false
+                                },
+                                "isHighlighted": false,
+                                "normalizedPrice": null,
+                                "priceDetailed": {
+                                    "postfix": "",
+                                    "string": "11 900",
+                                    "stringWithoutDiscount": null,
+                                    "value": 11900,
+                                    "wasLowered": false
+                                }
+                            },
+                            "default": true
+                        },
+                        {
+                            "componentData": {
+                                "component": "delivery"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3914065948,
+                                    "isVip": false
+                                },
+                                "id": 3914065948,
+                                "withHover": true
+                            },
+                            "default": true
+                        }
+                    ],
+                    "SecondLineStep": [],
+                    "ThirdLineStep": [],
+                    "TitleStep": [
+                        {
+                            "componentData": {
+                                "component": "title"
+                            },
+                            "payload": {
+                                "debug": {
+                                    "id": 3914065948,
+                                    "isVip": false
+                                },
+                                "seo": {
+                                    "title": "Мощный ноутбук Acer на гарантии в Санкт-Петербурге"
+                                },
+                                "title": "Мощный ноутбук Acer на гарантии",
+                                "urlPath": "/sankt-peterburg/noutbuki/moschnyy_noutbuk_acer_na_garantii_3914065948"
+                            },
+                            "default": true
+                        }
+                    ],
+                    "UserInfoStep": [
+                        {
+                            "componentData": {
+                                "component": "seller-info"
+                            },
+                            "payload": {
+                                "profile": {
+                                    "link": "/user/e05e215b2dba63cc877cb805a1618c3e/profile?src=search_seller_info",
+                                    "title": "Ноутбуки  «Космос»"
+                                },
+                                "rating": {
+                                    "score": 5,
+                                    "summary": "20 отзывов"
+                                },
+                                "showLink": true
+                            },
+                            "default": true
+                        },
+                        {
+                            "componentData": {
+                                "component": "seller-badgebar"
+                            },
+                            "payload": {
+                                "badges": [
+                                    {
+                                        "id": 31,
+                                        "title": "Документы проверены",
+                                        "version": 1,
+                                        "style": {
+                                            "backgroundColor": {
+                                                "value": "#CCECFF",
+                                                "valueDark": "#004078"
+                                            },
+                                            "fontColor": {
+                                                "value": "#000000",
+                                                "valueDark": "#E3E3E3"
+                                            }
+                                        }
+                                    }
+                                ],
+                                "debug": {
+                                    "id": 3914065948,
+                                    "isVip": false
+                                }
+                            },
+                            "default": true
+                        }
+                    ]
+                },
+                "hasVideo": true,
+                "nativeVideoAbCategory": "goods",
+                "hasRealtyLayout": false,
+                "coords": {
+                    "lat": "60.011076271237165",
+                    "lng": "30.246714800696182",
+                    "zoom": 16,
+                    "precision": 0,
+                    "address_user": "пр-т Авиаконструкторов, 5к2"
+                },
+                "groupData": null,
+                "isReMapPromotion": false,
+                "nativeVideo": {
+                    "videoUrl": "https://kinescope.io/9YqqZQAcNZnhCKD3xQ3Mt7/preview",
+                    "thumbnail": {
+                        "208x208": "https://50.img.avito.st/image/1/1.xxWw17a1a_ymd8n9sozYFr11afwOfMn9pndp_g.33ic1AfEmPUaus6p3ZGLFLmG5nRrEMWCdiY-XURjlgU",
+                        "236x236": "https://50.img.avito.st/image/1/1.xxWw17a1a_zed7H9sozYFr11afwOfLH93ndp_g.lDYt7W72V5Xj6Yl2vmOuzzPWVxzf3Hul_3uczBtriks",
+                        "318x318": "https://50.img.avito.st/image/1/1.xxWw17a1a_z6cJX6sozYFr11afwOfJX6-nBp_g.8LaczlcMASr7JKOBCtQ74vJEXCJ6JVcEvwh6Cb9Kb5I",
+                        "416x416": "https://50.img.avito.st/image/1/1.xxWw17a1a_zGcqn4sozYFr11afwOfKn4xnJp_g.FLNjBhJLZIcDoZGSrWevB-PesBqL-gS2PbwOPAj73KM",
+                        "432x432": "https://50.img.avito.st/image/1/1.xxWw17a1a_zmcon4sozYFr11afwOfIn45nJp_g.4U57zmt6gpUuI_6Wo35cZZbEHDCJcYLsGIAAlB6bDe4",
+                        "472x472": "https://50.img.avito.st/image/1/1.xxWw17a1a_y2c9n5sozYFr11afwOfNn5tnNp_g.Lg6MPU5T_seu8TAsBMh4_vcKxZblz8DIQy6hBo0uWyQ",
+                        "636x636": "https://50.img.avito.st/image/1/1.xxWw17a1a_z-fZH3sozYFr11afwOfJH3_n1p_g.g52NMARQjEBrKw7_fgR5fmtyu-ReamK9UOPK6iKMS-g",
+                        "864x864": "https://50.img.avito.st/image/1/1.xxWw17a1a_zGeanzsozYFr11afwOfKnzxnlp_g.VWESTTTBo8kg3THccigMgL_Sff957Mzp0FCG17ZnW6Q"
+                    }
+                },
+                "isReserved": false,
+                "type": "item",
+                "ratingExperimentGroup": "names_and_badges_and_rating",
+                "isRatingExperiment": true,
+                "isAnonymousProfile": false,
+                "rating": {
+                    "score": 5,
+                    "summary": "20 отзывов"
+                },
+                "closedItemsText": "178 завершённых объявлений",
+                "isNDPrivateChat": false,
+                "LoadedInfomodelParams": null
+            }
+        ]
+    }
+}
